@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou apenas estudo:Desenvolvimento de Sistemas e linguaguens da Programção.
 - 👯 Procuro colaborar com empresas que estaja a procura de estagiarios na area da programação.
 - 🤓 hobbies: estudar, programar, ler, desenhar e aprender lingua🇸 estrangeiras.
-- 📱 contato: +55 11 99961-3355.
+- 📱 contato: emanuel.jesus@etec.sp.gov.br
 
 <div align="center">
   <a href="https://github.com/emanuelsantossouza">
