@@ -42,13 +42,7 @@
 <div>
   <a href="https://instagram.com/emanuel_souza_de_jesus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/emanuel.souzadejesus.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" tardet="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-santos-souza-de-jesus-086959235/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" tardet="_blank"></a>
-  
-  ![Snake animation](https://github.com/emanuelsantossouza/emanuelsantossouza/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://www.linkedin.com/in/emanuel-santos-souza-de-jesus-086959235/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" tardet="_blank"></a>  
 </div>
 
-
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emanuelsantossouza&bg_color=000000&color=009980&line=25b699&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
