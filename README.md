@@ -36,13 +36,11 @@
 </p>
 
 <br><br>
-
-<br><br>
 ## Social Media
 <div>
   <a href="https://instagram.com/emanuel_souza_de_jesus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/emanuel.souzadejesus.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" tardet="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-santos-souza-de-jesus-086959235/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" tardet="_blank"></a>  
+  <a href="https://www.linkedin.com/in/emanuel-santos-souza-de-jesus-086959235/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" tardet="_blank"> </a>  
 </div>
 
 
