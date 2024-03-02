@@ -7,7 +7,7 @@
 
 - 🔭 I am currently studying Systems Development at  [Etec](https://www.linkedin.com/school/etec-comendador-joao-rays/mycompany/)
 
-- ▶️I post my evolution and projects on [linkedin](https://www.linkedin.com/in/emanuel-santos-souza-de-jesus-086959235/)
+- ▶️I post my evolution and projects on [linkedin](https://www.linkedin.com/in/emanu-el)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MySQL, Ionic, C#, Angular**
 
